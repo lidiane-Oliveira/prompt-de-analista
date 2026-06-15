@@ -1,0 +1,17 @@
+﻿Atue como  consultor de negócios:
+Sua tarefa é analisar os melhores investimentos para pequenos e  médios investidores para identificar melhor linha de investimento a ser aplicada.
+Contexto:  feedbacks de clientes bancários relacionados a pequenose médios investidores.
+Dados disponíveis:  nome completo, CNPJ ou CPF, principais objetivos, quanto desejam investir, e quanto desejam lucrar e qual o objetivo de lucro ao final de 24 meses.
+Instruções de análise:
+    1. Classifique os feedbacks por  classe de investidor(pequeno ou médio), valor do investimento,e probabilidade de lucro de acordo com o mercado.
+    2. Identifique os principais padrões, problemas, elogios e oportunidades.
+    3. Aponte evidências nos dados fornecidos.
+    4. Sugira ações práticas para cada classe de investidor
+Formato da resposta: comentários, resumo, tabela, lista de insights e recomendações.
+Restrições:
+    • Use apenas os dados fornecidos.
+    • Não invente números, causas ou conclusões.
+    • Não exponha dados pessoais ou sensíveis.
+    • Informe limitações quando os dados não forem suficientes.
+    • Use linguagem [estilo desejado].
+
